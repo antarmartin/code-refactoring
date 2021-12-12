@@ -11,9 +11,9 @@ There have been some changes made to the html code such as adding an aria-label 
 
 Please refer to the following images within the code-refactoring repository:
 
-/Users/antarmartin/Desktop/Bootcamp Homework/code-refactoring/project-screenshot-1.png
+![image](/Users/antarmartin/Desktop/Bootcamp Homework/code-refactoring/project-screenshot-1.png)
 
-/Users/antarmartin/Desktop/Bootcamp Homework/code-refactoring/project-screenshot-2.png
+![image](/Users/antarmartin/Desktop/Bootcamp Homework/code-refactoring/project-screenshot-2.png)
 
 Please do offer me any comments, critiques, or any other constructive criticism that can be used to help me improve as a developer.
 
